@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://0.0.0.0:5432/shape
+    username: postgres
+    password: password
